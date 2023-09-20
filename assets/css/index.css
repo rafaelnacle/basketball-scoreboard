@@ -16,7 +16,7 @@ body {
 
 @font-face {
     font-family: "CursedTimerUtil";
-    src: url("assets/fonts/CursedTimerUlil-Aznm.ttf")
+    src: url("/assets/fonts/CursedTimerUlil-Aznm.ttf")
 }
 
 .container {
